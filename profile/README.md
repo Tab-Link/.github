@@ -22,7 +22,7 @@
 | Project | Status | Description |
 | :--- | :---: | :--- |
 | **Tab-Cast** | 🛠 `In Progress` | Low-latency solution to turn your Android tablet into a secondary display for PC. |
-| **DFAS** | 🛠 `In Progress` | A comprehensive device management system for large-scale Android tablet fleets. |
+| **DFAS** | 🛠 `Beta` | A comprehensive device management system for large-scale Android tablet fleets. |
 
 ---
 
